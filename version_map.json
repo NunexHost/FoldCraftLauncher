@@ -2,12 +2,12 @@
   {
     "type": "release",
     "versionCode": 12,
-    "versionName": "1.1.0",
+    "versionName": "1.1.1-NunexSquad",
     "date": "2023.10.13",
     "description": [
       {
-        "lang": "en",
-        "text": "Fix some bugs, see github for details."
+        "lang": "pt_BR",
+        "text": "Consertado vários bugs, veja o github para detalhes."
       },
       {
         "lang": "zh_CN",
